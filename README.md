@@ -11,13 +11,14 @@
 
 1. Клонировать репозиторий:
 
-bash
+'''bash
 git clone https://github.com/aarbys/tz-weather.git
 cd tz-weather
+'''
 2. Собрать и запустить проект через Docker:
 
-bash
+'''bash
 docker build -t tz-weather .
 docker run -d -p 8000:8000 tz-weather
-
+'''
 Приложение будет доступно по адресу: [http://localhost:8000](http://localhost:8000)
