@@ -34,7 +34,7 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/ваш-репозиторий/weather-app.git
+   git clone https://github.com/ur_repo/weather-app.git
    cd weather-app
    ```
 
